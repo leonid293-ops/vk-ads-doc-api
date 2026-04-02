@@ -10,7 +10,7 @@
 - [SegmentParams](info/SegmentParams.md)
 - [SharingKeys](info/SharingKeys.md)
 - [Statistics](info/Statistics.md)
-- [Авторизация в API](info/Авторизация в API.md)
+- [Авторизация в API](info/Authorization.md)
 - [Быстрый старт](info/Быстрый старт.md)
 - [Добавление объявлений](info/Добавление объявлений.md)
 - [Особенности API](info/Особенности API.md)
